@@ -1,71 +1,38 @@
-### Hi there 👋
+<center> <h1>Welcome to my Github 💻</h1> </center>
 
-<!-- Cabeçalhos -->
-
-# Título h1 no HTML
-## Título h2 no HTML
-### Título h3 no HTML
-#### Título h4 no HTML
-##### Título h5 no HTML
-###### Título h6 no HTML
-
-*italico* ou _italico_
-
-**negrito** ou __negrito__
-
-___negrito e italico___
+<center>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
+</center>
 
 
-<!-- Lista não ordenada -->
+<h2>Sobre mim</h2>
 
-- Lista 1
-- Lista 2
-  - Sublista
-
-
-<!-- Lista ordenada-->
-1. Lista 1
-2. Lista 2
-    1. Sublista
-
-<!-- Links -->
-[TEXTO DA IMAGEM](https://img.freepik.com/fotos-gratis/bela-praia-tropical-mar-e-oceano-com-palmeira-de-coco-na-hora-do-nascer-do-sol_74190-1070.jpg)
+👽 Olá, me chamo Davi Marques! <br>
+👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br>
+🇧🇷 I'm from Ceará.<br>
+🖥️ Trabalho como desenvolvedor em uma escola na minha cidade natal. <br>
+🔭 Meu sonho é ser o melhor progamador do mundo!<br>
+📫 [Acesse meu linkedin](https://www.linkedin.com/in/davi-marques-629195250/)
 
 
-<!--Adicionando imagem -->
-![TEXTO DA IMAGEM](https://img.freepik.com/fotos-gratis/bela-praia-tropical-mar-e-oceano-com-palmeira-de-coco-na-hora-do-nascer-do-sol_74190-1070.jpg)
+<h2>Tecnologias que mais gosto</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width=100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=80px/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=80px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=80px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width=80px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=80px/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=80px/>        
+<br><br>
+
+- Sempre buscando aprender mais!
 
 
-<!-- Blocos de código -->
-Uma linha de código -> `system.out.println();`
+<h2>Sistema Operacinal que mais gosto</h2>
 
-Blocos de código -> ```system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();system.out.println();```
-
-
-<!-- Citações -->
-> Texto da Citações
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width=80px/>
 
 
-<!-- Tabelas -->
-|Cabeçalho 1 | Cabeçalho 2|
-|------------| -----------|
-| Texto 1    | Texto 2    |
+<h2>Contato</h2>
 
-
-<!-- Checkout -->
-[X] tarefa 1 <br> [X] tarefa 2
-
-<!--
-**dev-davimarques/dev-davimarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 davimarques10.dm@gmail.com
