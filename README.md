@@ -30,3 +30,7 @@
 <h2>Contato</h2>
 
 - 📧 davimarques10.dm@gmail.com
+
+
+
+![Davi Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-davimarques&show_icons=true&theme=transparent)
