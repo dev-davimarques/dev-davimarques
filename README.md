@@ -24,7 +24,7 @@
 
 <h2>Sistema Operacinal que mais gosto</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width=80px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width=60px/>
 
 
 <h2>Contato</h2>
