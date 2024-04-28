@@ -16,11 +16,17 @@
 ___negrito e italico___
 
 
-<!-- Lista ordenada -->
+<!-- Lista não ordenada -->
 
 - Lista 1
 - Lista 2
   - Sublista
+
+
+<!-- Lista ordenada-->
+1. Lista 1
+2. Lista 2
+    1. Sublista
 
 <!--
 **dev-davimarques/dev-davimarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
