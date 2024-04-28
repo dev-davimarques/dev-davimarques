@@ -10,7 +10,7 @@
 👽 Olá, me chamo Davi Marques! <br>
 👨‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br>
 🇧🇷 I'm from Ceará.<br>
-🖥️ Trabalho como desenvolvedor em uma escola na minha cidade natal. <br>
+🖥️ Trabalho como desenvolvedor em uma escola/faculdade na minha cidade natal. <br>
 🔭 Meu sonho é ser o melhor progamador do mundo!<br>
 📫 [Acesse meu linkedin](https://www.linkedin.com/in/davi-marques-629195250/)
 
