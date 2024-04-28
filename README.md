@@ -12,7 +12,7 @@
 🇧🇷 I'm from Ceará.<br>
 🖥️ Trabalho como desenvolvedor em uma escola/faculdade na minha cidade natal. <br>
 🔭 Meu sonho é ser o melhor progamador do mundo!<br>
-📫 <a href="https://www.linkedin.com/in/davi-marques-629195250/" target="_blank">Acesse meu LinkedIn</a>
+📫 <a href="https://www.linkedin.com/in/davi-marques-629195250/" target="_blank" style="text-decoration: none;">Acesse meu LinkedIn</a>
 
 
 <h2>Tecnologias que mais gosto</h2>
