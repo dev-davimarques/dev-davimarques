@@ -9,6 +9,19 @@
 ##### Título h5 no HTML
 ###### Título h6 no HTML
 
+*italico* ou _italico_
+
+**negrito** ou __negrito__
+
+___negrito e italico___
+
+
+<!-- Lista ordenada>
+
+- Lista 1
+- Lista 2
+  - Sublista
+
 <!--
 **dev-davimarques/dev-davimarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
