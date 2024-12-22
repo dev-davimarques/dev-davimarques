@@ -41,8 +41,8 @@
 <h2>Github Stats</h2>
 <div>
 <a href="https://github.com/dev-davimarques">
-<!-- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-davimarques&layout=compact&langs_count=7&theme=dark"/> -->
-![Davi Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-davimarques&show_icons=true)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-davimarques&show_icons=true"/>
+<!-- ![Davi Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-davimarques&show_icons=true) -->
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-davimarques&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
